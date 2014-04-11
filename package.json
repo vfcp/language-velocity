@@ -1,12 +1,11 @@
 {
   "name": "language-velocity",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Language package for the Apache velocity language converted from the Textmate bundle https://github.com/subtleGradient/Java-Velocity.tmbundle",
   "repository": "https://github.com/baldmountain/language-velocity",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
