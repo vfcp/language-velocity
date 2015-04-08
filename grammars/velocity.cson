@@ -32,8 +32,8 @@
     'name': 'source.velocity.embedded'
   }
   {
-    'begin': '(?=#\\*)'
-    'end': '(?<=\\*#|\\*#\\n)'
+    'begin': '(=#\\*)'
+    'end': '(<=\\*#|\\*#\\n)'
     'name': 'source.velocity.embedded'
     'patterns': [
       {
