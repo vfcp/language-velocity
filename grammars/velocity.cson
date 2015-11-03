@@ -1,5 +1,6 @@
 'fileTypes': [
-  'vm',
+  'vm'
+  'vsl'
   'vtl'
 ]
 'foldingStartMarker': '(?x)\n\t\t\\#(?:\n\t\t\t    (?:macro|if|foreach)\\b \\s* \\(\n\t\t\t|\\{ (?:macro|if|foreach)\\b \\s* \\(\n\t\t).*(?!\\#\\{?end).*$'
