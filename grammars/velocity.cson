@@ -24,7 +24,7 @@
     'include': '#variable'
   }
   {
-    'beginCaptures':
+    'captures':
       '0':
         'name': 'comment.line.double-number-sign'
       '1':
@@ -276,7 +276,7 @@
   'function':
     'patterns': [
       {
-        'beginCaptures':
+        'captures':
           '0':
             'name': 'meta.function-call.method.with-arguments.velocity'
           '1':
