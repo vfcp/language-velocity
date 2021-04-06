@@ -53,6 +53,14 @@
         'end': '\\*\\#'
         'name': 'comment.block'
       }
+      {
+        'begin': '\\#\\[\\['
+        'captures':
+          '0':
+            'name': 'constant.character.escape.velocity'
+        'end': '\\]\\]\\#'
+        'name': 'source.velocity.embedded'
+      }
     ]
   }
 ]
